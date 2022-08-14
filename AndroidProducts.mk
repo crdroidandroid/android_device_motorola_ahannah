@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019 The LineageOS Project
+# Copyright (C) 2022 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ahannah.mk
+    $(LOCAL_DIR)/arrow_ahannah.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ahannah-user \
-    lineage_ahannah-userdebug \
-    lineage_ahannah-eng
+    arrow_ahannah-user \
+    arrow_ahannah-userdebug \
+    arrow_ahannah-eng
